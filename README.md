@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Vaishnav-raj-vp
-- 👀 I’m interested in working with the data
-- 🌱 I’m currently learning Data Engineering
+- 👀 I’m interested in working with the data.
+- 🌱 I’m currently evolving in the Data World!
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: Data is the new oil.
 
